@@ -1,0 +1,14 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÛãŒ¬úÿÿÿÿ8óéø»ü1J$31d4ec98-6c76-4395-bf59-3c68ca76e98f
+
+java:S2589"7Remove this expression which always evaluates to "true"(­‘ûùÿÿÿÿ8ƒêø»ü1J$423e01e5-c0f2-4c67-b500-032512c92839
+
+java:S2589)"7Remove this expression which always evaluates to "true"(®Ô¦áÿÿÿÿÿ8„êø»ü1J$e083fb0a-eaaa-4356-83aa-396fe5d69d42
+|
+java:S3516"9Refactor this method to not always return the same value.( «Ÿ8…êø»ü1J$f9c2f5d8-8c77-4572-abe6-f32f34048c7b
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8‡êø»ü1J$dd604955-3ca7-42d4-bca8-a88a1d57764b
+w
+java:S1874"/Remove this use of "getById"; it is deprecated.(¼í‹èıÿÿÿÿ8êø»ü1J$e8e7cd02-bb7f-4079-9057-3cc6472b19db
+r
+java:S1874("/Remove this use of "getById"; it is deprecated.(ñŒŠ¨8“êø»ü1J$e2ddf767-af0c-499e-ae36-594bce8737a2
